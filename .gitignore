@@ -1,0 +1,105 @@
+# -------------------------------------
+# UNITY PROJECTS (BrainClassroom & CoreClassroom)
+# -------------------------------------
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# -------------------------------------
+# Unity generated files
+# -------------------------------------
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# -------------------------------------
+# Unity3D generated meta files
+# -------------------------------------
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# -------------------------------------
+# Unity Crash reports
+# -------------------------------------
+sysinfo.txt
+mono_crash.*
+
+# -------------------------------------
+# Asset bundles and builds
+# -------------------------------------
+*.apk
+*.aab
+*.unitypackage
+*.unitypackage.meta
+*.app
+
+# -------------------------------------
+# FRONTEND & BACKEND (Node.js & Web)
+# -------------------------------------
+node_modules/
+dist/
+build/
+.env
+.env.*
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.eslintcache
+.parcel-cache/
+
+# -------------------------------------
+# OS SPECIFIC
+# -------------------------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# -------------------------------------
+# Ignore Unity IL2CPP Backup Folders
+# -------------------------------------
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+*_BurstDebugInformation_DoNotShip/
+
+# -------------------------------------
+# Ignore built AssetBundles (Optional, but recommended. You should only track the raw assets, not the built bundles)
+# -------------------------------------
+/BrainClassroom/Assets/AssetBundles/
+/NeuronClassroom/Assets/AssetBundles/
+
+# -------------------------------------
+# Ignore Compiled Unity Dedicated Server
+# -------------------------------------
+/WebGL_Classroom_Backend/UnityServerBuild/
+
+# -------------------------------------
+# Ignore Runtime Uploaded Asset Bundles
+# -------------------------------------
+/WebGL_Classroom_Backend/uploads/bundles/
+
+# -------------------------------------
+# Ignore Visual Studio Local Cache
+# -------------------------------------
+.vs/
